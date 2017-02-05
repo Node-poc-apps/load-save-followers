@@ -1,0 +1,4 @@
+
+''
+my-email@domain.fr
+my_email@domain.fr
